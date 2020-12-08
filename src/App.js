@@ -6,10 +6,10 @@ import Main from "./route";
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
       <Main />
-    </>
+    </div>
   );
 }
 
