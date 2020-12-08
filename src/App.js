@@ -6,7 +6,7 @@ import Main from "./route";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Header />
       <Main />
     </div>
