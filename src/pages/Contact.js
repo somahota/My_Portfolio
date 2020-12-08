@@ -14,11 +14,10 @@ export default function Contact() {
           <div className="col-lg">
             <Title title="Contact" textAlignment="left" marginAlignment="0" />
             <div className="mt-5">
-              Have a question? Hit me on my any social media handler, and I will
-              make sure to get back to you.
+              Have a question? Please feel free to reach out!
               <br></br>
-              <br></br>Additionally you can send me mail at <span className ="highlight2"> nerd_queen@brown.edu</span> directly
-              or, just hit on links below to visit my social media handlers.
+              <br></br>Additionally, you can directly send me an email at <span className ="highlight2"> nerd_queen@brown.edu</span>
+              or just hit on any of the links below to visit my social media handles.
             </div>
             <Footer />
           </div>
